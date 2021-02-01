@@ -1,0 +1,22 @@
+{
+  "name": "net-tool",
+  "version": "1.0.0",
+  "description": "网络工具",
+  "main": "net_tools.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingfz/netTool.git"
+  },
+  "dependencies": {
+    "cidr-tools": "^3.0.3",
+    "execa": "^5.0.0",
+    "ip": "^1.1.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingfz/netTool/issues"
+  },
+  "homepage": "https://github.com/flyingfz/netTool#readme"
+}
